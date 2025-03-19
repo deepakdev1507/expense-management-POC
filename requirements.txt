@@ -1,3 +1,4 @@
 streamlit
 azure-ai-documentintelligence
 PyMuPDF
+openai
